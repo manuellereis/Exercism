@@ -1,3 +1,2 @@
 
-const sayHello = () => 'Hello, World!';
-console.log(sayHello());
+export const hello = () => 'Hello, World!';
